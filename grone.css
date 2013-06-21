@@ -177,7 +177,6 @@ div.cdmHeader img.tinyFeedIcon {
     left: 0;
     position: absolute;
     margin-left: 48px;
-
 }
 
 /* hide border on splitter */
@@ -244,4 +243,3 @@ div.cdm.expandable {
 .noborder {
     padding-bottom: 4px;
 }
-
